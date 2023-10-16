@@ -1,0 +1,103 @@
+
+body{
+    background-color: #F5DEB3; /* light brown color */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding-top: 0px;  
+    box-sizing: border-box;    }
+#demo1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    color: #333333;
+    padding: 100px;
+    padding-bottom: 0px;
+}
+#demo2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#demo3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #333333;
+    padding-top: 10px;
+    padding-left:100px;
+    font-style:bold;
+}
+.demo4 input[type="email"]{
+    border: 3px solid black;
+    padding: 10px;
+    padding-right:100px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 100px;
+    border: 3px solid black;
+}
+.demo5 input[type="submit"]{
+    border: 3px solid black;
+    padding: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;}
+#demo6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background-color:black;
+    color: white;
+    decoration:none;
+    padding: 10px;
+    padding-left: 50px;
+    list-style-type: none;
+    }
+.demo8{
+    
+    padding:1200px;
+    text-align: right;
+}
+.demo9{
+    padding-left: 1020px;
+    text-align: right;
+}.demo10{
+    padding-left: 1000px;
+    text-align: right;
+}
+
+
+#image{
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;        
+    top: 0;
+    float:right;
+    width: 50%;
+    box-sizing: border-box;
+    height:auto;
+    top:100px;
+
+}
+#section{
+    list-style-type: none;
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
+    
+
+}
+#img2{
+    padding-left: 1070px;
+    text-align: right;
+
+}
